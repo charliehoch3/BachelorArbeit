@@ -1,0 +1,14 @@
+Anmelde- und Kontaktdaten__Name,Personal Data File__First Name
+Anmelde- und Kontaktdaten__Name,Personal Data File__Middle Name
+Anmelde- und Kontaktdaten__Name,Personal Data File__Last Name
+Anmelde- und Kontaktdaten__E-Mail-Adresse,Personal Data File__E-mail addresses on File
+Anmelde- und Kontaktdaten__Steuernummer,Personal Data File__TAX ID
+Anmelde- und Kontaktdaten__Postanschrift,Personal Data File__Addresses on File
+Anmelde- und Kontaktdaten__Telefonnummer,Personal Data File__Phone numbers on File
+Kontoprofil__Mobiltelefonnummer,Personal Data File__Primary Mobile Phone Number
+Anmelde- und Kontaktdaten__Geschäft,Personal Data File__Account Type
+Kontoprofil__bevorzugte Sprache,Personal Data File__Language
+Zahlungsinformationen__IBAN-Informationen,Bank Information - Deutsche Kreditbank AG (Active)__IBAN / BBAN
+Zahlungsinformationen__Bezeichnung des Ausstellers,Bank Information - Deutsche Kreditbank AG (Active)__Bank Name
+Kontoprofil__E-Mail-Adresse,Personal Data File__Primary E-mail
+Kontoprofil__Benutzername,Personal Data File__Preferred Name

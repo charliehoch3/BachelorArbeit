@@ -1,0 +1,4 @@
+('Konto-Zugriffsinformationen__Pin', 'info__device')
+('Konto-Zugriffsinformationen__Pin', 'info__platform')
+('Konto-Zugriffsinformationen__Pin', 'info__network')
+('Cookies__Cookies', 'info__platform')

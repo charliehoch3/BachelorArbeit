@@ -1,0 +1,920 @@
+{
+  "meta": {
+    "_id": "5f92342a-66c3-4eda-a08e-2aa1f31e9179",
+    "name": "whatsapp",
+    "created": "2024-02-16T00:00:00",
+    "modified": null,
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.whatsapp.com/legal/privacy-policy-eea?lang=de",
+    "_hash": null
+  },
+  "controller": {
+    "name": "WhatsApp Ireland Limited",
+    "country": null,
+    "address": "Attn: Privacy Policy, Merrion Road, Dublin 4, D04 X2K5, Irland",
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "sector": "G"
+  },
+  "dataProtectionOfficer": {
+    "email": null,
+    "phone": null,
+    "country": null,
+    "name": null,
+    "address": "https://www.whatsapp.com/contact/forms/3022366361353546/"
+  },
+  "dataDisclosed": [
+    {
+      "_id": "af9dddcb-7f5f-4f78-ac67-f96d048e3b34",
+      "category": "Konto-Informationen",
+      "purposes": [
+        {
+          "purpose": ["Um ein WhatsApp-Konto zu erstellen, musst du deine Mobiltelefonnummer und einen Profilnamen deiner Wahl angeben."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": ["Unterstützung beim Erstellen und Verwalten deines WhatsApp-Kontos"],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Mobiltelefonnummer", "Profilnamen"]
+    },
+    {
+      "_id": "e299205c-14d8-4a18-b05e-67c9624ce285",
+      "category": "Benutzerinhalte",
+      "purposes": [
+        {
+          "purpose": ["Deine Nachrichten, in Nachrichten enthaltene Medien und Anrufe"],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Status-Informationen", "Genaue Standortinformationen"]
+    },
+    {
+      "_id": "04bbd0ce-5478-416d-bc98-5b15d6e4f7c7",
+      "category": "Netzwerk",
+      "purposes": [
+        {
+          "purpose": ["Du kannst den Kontakt-Upload nutzen und uns regelmäßig die Telefonnummern im Adressbuch deines Geräts zur Verfügung stellen, darunter die Nummern von Benutzer*innen unserer Dienste sowie die von deinen sonstigen Kontakten."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Telefonnummern im Adressbuch", "Informationen zu Benutzer*innen, die dich kontaktieren und nicht in deinem Geräteadressbuch sind", "Informationen zu Benutzer*innen, die du blockiert hast", "Informationen zu Benutzer*innen, die dich blockiert haben"]
+    },
+    {
+      "_id": "7d834458-b367-493f-ae01-e8c6f9157557",
+      "category": "Community- und Gruppeninformationen",
+      "purposes": [
+        {
+          "purpose": ["Du kannst Communitys, Gruppen und Broadcast-Listen erstellen, ihnen beitreten oder zu ihnen hinzugefügt werden"],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "4f979532-2d26-459e-a672-ed7534f9f395",
+      "category": "Informationen des Customer Supports und andere Mitteilungen",
+      "purposes": [
+        {
+          "purpose": ["Wenn du uns für Zwecke des Customer Supports kontaktierst oder anderweitig mit uns kommunizierst (beispielsweise mittels optionaler Umfragen), kannst du uns Informationen bezüglich deiner Nutzung unserer Dienste bereitstellen, etwa Kopien deiner Nachrichten, sonstige Informationen, die du als sachdienlich erachtest, damit wir deine Anfrage nachvollziehen und lösen können, sowie deine Kontaktinformationen (z. B. eine E-Mail-Adresse)."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "e6b5c1b3-7dd6-437d-b931-752e6c9d21da",
+      "category": "Konto-Zugriffsinformationen",
+      "purposes": [
+        {
+          "purpose": ["Wenn du dich bei unserem Dienst registrierst oder anmeldest, verifizieren wir dein WhatsApp-Konto, zum Beispiel indem wir dir per SMS einen Code senden oder dich anrufen."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Verifizierungs-Informationen", "Pin"]
+    },
+    {
+      "_id": "a2d3b298-4d1c-4413-9c3e-9f20b11578e7",
+      "category": "Nutzungsinformationen",
+      "purposes": [
+        {
+          "purpose": ["Wir erheben Informationen zu deiner Nutzung unserer Dienste. Dies umfasst auch das Erheben von Informationen über deine Aktivität (beispielsweise wie du unsere Dienste nutzt), wie du mit anderen Benutzer*innen unserer Dienste interagierst (z. B., wenn du nach einem Unternehmen suchst und mit ihm interagierst) sowie Zeitpunkt, Häufigkeit und Dauer deiner Aktivitäten"],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Zeitpunkt deiner Aktivität", "Dauer deiner Aktivität", "Häufigkeit deiner Aktivität", "„Zuletzt online“-Angabe", "Informationen zu den Funktionen, die du nutzt", "wann du zuletzt deine Profilinfo aktualisiert hast", "wann du Anrufe und Nachrichten tätigst"]
+    },
+    {
+      "_id": "255150bd-5ba4-4187-bd7c-83ecf67e9f04",
+      "category": "Protokoll- und Problemlösungsinformationen",
+      "purposes": [
+        {
+          "purpose": ["Wir erheben Informationen darüber, wie gut unsere Dienste funktionieren, wenn du sie nutzt, darunter dienstspezifische Informationen für Diagnosezwecke und Performance-Informationen"],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Protokolldateien", "Zeitstempel", "Diagnosedaten", "Absturzdaten", "Performance-Logs von Webseiten", "Fehlerprotokolle"]
+    },
+    {
+      "_id": "4d783e1e-23f0-4dde-9a23-07368ec433bc",
+      "category": "Geräte- und Verbindungsdaten",
+      "purposes": [
+        {
+          "purpose": ["Wenn du unsere Dienste installierst, nutzt oder auf sie zugreifst, erheben wir geräte- und verbindungsspezifische Informationen. "],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Hardware-Modell", "Betriebssystem", "Batteriestand", "Signalstärke", "App-Version", "Informationen zum Browser", "Informationen zum Mobilfunknetz", "Verbindung", "Mobilfunk- oder Internetanbieter", "Sprache", "Zeitzone", "IP-Adresse", "Informationen zum Gerätebetrieb", "Kennungen"]
+    },
+    {
+      "_id": "82b1b6d1-2162-4210-92f3-a30373b9d043",
+      "category": "Allgemeine Standortinformationen",
+      "purposes": [
+        {
+          "purpose": ["Auch dann, wenn du unsere Funktionen im Zusammenhang mit deinem genauen Standort nicht nutzen möchtest (siehe Informationen, die von dir und WhatsApp an Dritte weitergegeben werden), verwenden wir IP-Adressen und andere Informationen wie Telefonvorwahlen, um deinen ungefähren Standort zu bestimmen (z. B. das Land)."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "aed2dcfe-f268-4a7c-bbfc-2148d999b392",
+      "category": "Cookies",
+      "purposes": [
+        {
+          "purpose": ["Um unsere webbasierten Dienste und die Webseite zu betreiben und zur Verfügung zu stellen, erheben wir Informationen mithilfe von Cookies."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "f6e1950f-ea9a-41d0-a911-a0cd74fb3534",
+      "category": "Benutzeroptionen",
+      "purposes": [
+        {
+          "purpose": ["Wir erheben Informationen über deine In-App-Einstellungen, Datenschutz-Einstellungen und Aufzeichnungen über die Annahme unserer Bedingungen durch dich."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["In-App-Einstellungen", "Datenschutz-Einstellungen", "Aufzeichnungen über die Annahme unserer Bedingungen"]
+    },
+    {
+      "_id": "c4d7b0a2-cef9-48b5-94fa-e48d9313d0c6",
+      "category": "Authentifizierungsinformationen",
+      "purposes": [
+        {
+          "purpose": ["Um dich bei Nutzung der Dienste zu verifizieren und dir die entsprechenden Genehmigungen zu erteilen erstellen und speichern wir als Sicherheitsmaßnahme Authentifizierungscodes."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Authentifizierungscodes", "öffentliche Verschlüsselungsschlüssel"]
+    },
+    {
+      "_id": "a5fb81fc-733a-49d7-b0c3-819709cb627e",
+      "category": "Von anderen über dich bereitgestellte Informationen",
+      "purposes": [
+        {
+          "purpose": ["Wir erhalten Informationen über dich von anderen Benutzer*innen."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "4488f30d-912c-423f-9704-69b591302840",
+      "category": "Meldungen von Benutzer*innen",
+      "purposes": [
+        {
+          "purpose": ["So wie du andere Benutzer*innen melden kannst, können auch andere Benutzer*innen oder Dritte deine Interaktionen und Nachrichten zwischen dir und ihnen oder anderen auf unseren Diensten an uns melden"],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "26caa8d1-a1d7-4a19-99b9-fd5a6a054ae5",
+      "category": "Unternehmen auf WhatsApp",
+      "purposes": [
+        {
+          "purpose": ["Wenn Unternehmen, mit denen du während der Nutzung unserer Dienste interagierst, uns Informationen über ihre Interaktionen mit dir zur Verfügung stellen, verpflichten wir jedes dieser Unternehmen, im Einklang mit dem anwendbaren Recht zu handeln."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "83ab89c9-f6e1-477f-9e20-ec1f3b052534",
+      "category": "Dienste Dritter",
+      "purposes": [
+        {
+          "purpose": ["WhatsApp erhält Informationen über Übeltäter und Missbrauch von Meta-Unternehmen sowie App-Verifizierungsinformationen von Missbrauchsbekämpfungsdiensten, um die Sicherheit und Integrität zu fördern."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": null,
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": true,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": 0,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": "Du kannst auf deine Informationen zugreifen bzw. sie übertragen, indem du unsere In-App-Funktion „Account-Info anfordern“ (verfügbar unter Einstellungen > Account) nutzt.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "Du kannst dein WhatsApp-Konto jederzeit über unsere In-App-Funktion „Mein Konto löschen“ in deinen In-App-Einstellungen löschen",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": true,
+    "description": "Du kannst auf deine Informationen zugreifen bzw. sie übertragen, indem du unsere In-App-Funktion „Account-Info anfordern“ (verfügbar unter Einstellungen > Account) nutzt.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": "Du hast das Recht, gegen die Verarbeitung deiner Daten durch uns Widerspruch einzulegen und sie einzuschränken",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": "Du hast das Recht, eine Beschwerde gemäß der DSGVO bei der für WhatsApp zuständigen federführenden Aufsichtsbehörde, der irischen Datenschutzkommission (Irish Data Protection Commission) oder bei einer anderen zuständigen Datenschutz-Aufsichtsbehörde einzureichen.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": [],
+      "affectedDataCategories": [],
+      "plannedDateOfChange": [],
+      "urlOfNewVersion": []
+    }
+  ]
+}

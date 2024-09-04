@@ -1,0 +1,927 @@
+{
+  "meta": {
+    "_id": "74a4185b-6f8f-494f-960e-69d223150450",
+    "name": "pinterest",
+    "created": "2024-07-30T00:00:00",
+    "modified": null,
+    "version": 1,
+    "language": "en",
+    "status": "active",
+    "url": "https://storage.googleapis.com/etsy-extfiles-prod/2024%20Privacy%20Policy/Privacy%20Policy_en_US.docx.pdf",
+    "_hash": null
+  },
+  "controller": {
+    "name": "Etsy Ireland UC",
+    "country": "IR",
+    "address": null,
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "sector": "G"
+  },
+  "dataProtectionOfficer": {
+    "email": "dpo@etsy.com",
+    "phone": null,
+    "country": "IR",
+    "name": null,
+    "address": "Etsy Support Team – Privacy Policy, One Le Pole Square, Ship Street Great, Dublin 8, Irland"
+  },
+  "dataDisclosed": [
+    {
+      "_id": "482482b5-5218-48b4-ad20-03c4870ca7b5",
+      "category": "Buyer Details",
+      "purposes": [
+        {
+          "purpose": ["We collect certain information from you when you set up an Etsy Buyer account and use the Services."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": ["To create and maintain your Etsy account and provide our Services"],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["name", "email", "phone number"]
+    },
+    {
+      "_id": "087ed281-95ec-48a1-9565-cfbca2ac077d",
+      "category": "Buyer Payment Information",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["billing adress", "payment information"]
+    },
+    {
+      "_id": "ece09f93-d42b-4cee-8352-14d4a69d98bf",
+      "category": "Delivery Information",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["delivery address", "contact name"]
+    },
+    {
+      "_id": "16f2fa5b-dfa3-472f-8136-1520effdd25a",
+      "category": "Regional Information",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["country", "preferred language", "currency"]
+    },
+    {
+      "_id": "556b944c-6b78-4df7-b3b2-91b4ba30d474",
+      "category": "Buyer Public Profile Information",
+      "purposes": [
+        {
+          "purpose": ["As a Buyer on Etsy, you can choose to provide your name and other information in connection with your account and activity. Other people will be able to see your profile information. Your saved product listings that are grouped by you (“Favorites and Collections”) may also be visible publicly, depending on your settings"],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": ["To create and maintain your Etsy account and provide our Services"],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["name", "Birthday", "Gender", "Location", "Profile photo", "bio", "Favourites and Collections", "Who you follow", "followers", "Linked third-party accounts", "Product reviews", "Registry information"]
+    },
+    {
+      "_id": "98a4e794-ace1-452f-a3dc-54ee4a90bfaa",
+      "category": "Transaction Information",
+      "purposes": [
+        {
+          "purpose": ["When you buy or sell items on Etsy, we collect information about the order as part of your transaction history."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": ["To facilitate buying and selling on Etsy"],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["shop name", "items purchased", "Buyer’s name", "purchase price", "date"]
+    },
+    {
+      "_id": "0187b393-14b6-4fb1-bfb3-0a44c68b80ae",
+      "category": "Messages Information",
+      "purposes": [
+        {
+          "purpose": ["You can contact another Member using Etsy Messages for a variety of reasons, such as customer support, personalizing products, or product and order questions."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": ["To provide support and resolve order issues"],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Messages Content", "Messages Metadata"]
+    },
+    {
+      "_id": "b389e6bd-7f08-4d6a-837a-5de951f51772",
+      "category": "Browser and Device Information",
+      "purposes": [
+        {
+          "purpose": ["Etsy automatically receives and records information from your browser and/or your mobile device when you visit the Site, use the Apps, or otherwise install, access, or use certain features of the Services"],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": ["Automatic Collection"]
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["IP address", "device type", "hardware model", "operating system information", "unique device identifier", "detected language"]
+    },
+    {
+      "_id": "b5dac1b8-575e-4145-83a7-e4610bc3d6c7",
+      "category": "App information",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["app version", "app usage", "debugging information", "app ID"]
+    },
+    {
+      "_id": "39686382-4992-45c9-b46b-032405500558",
+      "category": "Service Usage Information",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": ["To understand how you use our Services and improve your experience on Etsy"],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["how often you use the Sites and/or Apps", "what happens within the Sites and/or Apps", "what listings you view and interact with", "mouse movements", "searches", "pages you visit"]
+    },
+    {
+      "_id": "b86e6d4f-a125-49b6-9dbe-c69644868b1c",
+      "category": "Diagnostic and Troubleshooting Information",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["service-related diagnostic", "performance information", "timestamps", "crash data", "website performance logs", "error messages or reports"]
+    },
+    {
+      "_id": "e5eb3f20-ef55-4ba9-b5bd-5fdfe57cbf17",
+      "category": "General Location Information",
+      "purposes": [
+        {
+          "purpose": ["We collect your general location information for things like tailoring our Services to your location, to estimate shipping costs, and for security, sanctions and fraud prevention purposes. See Section 2 for further details on how we use this information"],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["IP addresses", "zip or post code", "country, state or city", "regional preferences"]
+    },
+    {
+      "_id": "bb5022f1-65b2-4a45-a809-6838b8cf78b1",
+      "category": "Precise Location Information",
+      "purposes": [
+        {
+          "purpose": ["We collect your precise geo-location where you have given us permission to do so through your device-based settings. See Section 2 for further detail."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["precise geo-location"]
+    },
+    {
+      "_id": "65410fea-9aaa-4d35-9b47-5329a64e81eb",
+      "category": "Cookie Information",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "3bc91f98-b4b6-4e83-99a2-81ab63cab4d5",
+      "category": "Information from our Payment Processors and Other Entities",
+      "purposes": [
+        {
+          "purpose": ["We receive certain information about Buyers from third parties such as payment processors or fraud prevention partners, who help us to process transactions, provide our Services and prevent fraudulent or illegal activity"],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["name", "billing adress", "email adress", "phone number", "Fraud prevention data"]
+    },
+    {
+      "_id": "92743d39-7331-4868-8ff1-73aca1d1c8e4",
+      "category": "Information from Advertising and Marketing Partners",
+      "purposes": [
+        {
+          "purpose": ["We receive certain information about you from our advertising and marketing partners, including in some instances what marketing content you viewed or clicked the actions you take on our Sites and Apps. This information helps us determine how our marketing campaigns and other customer interactions may contribute to sales, conversions, or other goals and also allows us to tailor ads for products and services that may be of interest to you."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["age", "gender", "household composition", "estimated income", "interests", "purchasing habits"]
+    },
+    {
+      "_id": "6dc3a24a-15c8-4b59-bcf6-0bdb2691acc5",
+      "category": "Analytics Information",
+      "purposes": [
+        {
+          "purpose": ["We use data analytics software to ensure Site and App functionality and to improve the Services"],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": [" how often you use the Site and/or Apps", "what happens within the Apps or on our Site", "aggregated usage", "performance data", "app errors", "debugging information", "where the Apps were downloaded from"]
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": null,
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": true,
+    "description": "Zip with CSV and JSON",
+    "url": "https://help.etsy.com/hc/en-us/articles/360035753053-How-Do-I-Download-My-Etsy-Data",
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": 0,
+      "currency": null
+    },
+    "dataFormats": ["CSV", "JSON"]
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": "You can access certain information associated with your account by visiting your account privacy settings.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "In certain circumstances, you have the right to request the deletion of your information, except information we are required to retain by law, regulation, or to protect the safety, security, rights, and integrity of Etsy.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": true,
+    "description": "You have the right to receive certain of your information which you provided in a structured, commonly used and machine-readable format and to transmit such information to another controller.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": "Where we rely on consent, you can choose to withdraw your consent to our processing of your information using, for example, an email unsubscribe link or your account privacy preferences. If you have consented to share your precise device location details with us, you can revoke that consent through the settings on your mobile device. This is without prejudice to your general right to permanently close your account and delete your information. Please be aware that withdrawing consent will not affect the lawfulness of processing that happened before you withdraw your consent.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": " If you are a resident in the EEA, Switzerland or the UK, you have the right to lodge a complaint about our data protection practices with the supervisory authority of your country or state.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": [],
+      "affectedDataCategories": [],
+      "plannedDateOfChange": [],
+      "urlOfNewVersion": []
+    }
+  ]
+}

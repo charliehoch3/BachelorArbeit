@@ -1,0 +1,3 @@
+('Regional Information__country', 'shipping_addresses__state')
+('Buyer Public Profile Information__Location', 'signin_history__location')
+('Transaction Information__date', 'convos__Date')

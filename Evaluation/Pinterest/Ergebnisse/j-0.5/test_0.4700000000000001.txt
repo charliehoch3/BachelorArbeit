@@ -1,0 +1,7 @@
+('Kontodaten__Geburtsdatum', 'User profile information__Birthday')
+('Kontodaten__Geschlecht', 'User profile information__Gender')
+('Kontodaten__Land', 'User profile information__Country')
+('Inhalte__Pins', 'Pins__Pins')
+('Inhalte__Inhalte', 'User profile information__Domains')
+('Inhalte__Kommentare', 'Notes__Notes')
+('Inhalte__Kommentare', 'Comments__Comments')

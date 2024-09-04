@@ -1,0 +1,17 @@
+Kontodaten__Geburtsdatum,User profile information__Birthday
+Kontodaten__E-Mail-Adresse,User profile information__Email
+Kontodaten__Geschlecht,User profile information__Gender
+Kontodaten__Land,User profile information__Country
+Kontodaten__Name,User profile information__First name
+Kontodaten__Name,User profile information__Last name
+Kontodaten__Interessen,User profile information__Inferences made about your interests
+Protokolldaten__Datum und Uhrzeit deines Zugriffs,User profile information__Last login
+Kontodaten__Land,User profile information__Location
+Standortdaten__Standortdaten,User profile information__Location
+Genaue Standortdaten__Genaue Standortdaten,User profile information__Location
+Nutzungsdaten und Rückschlüsse__Vorlieben,User profile information__Inferences made about your interests
+Kontakte__Kontakte,Social network data__Social network data
+Inhalte__Pins,Pins__Pins
+Inhalte__Kommentare,Comments__Comments
+Inhalte__Interaktionen,User events__User events
+Inhalte__Interaktionen,Reported pins__Reported pins

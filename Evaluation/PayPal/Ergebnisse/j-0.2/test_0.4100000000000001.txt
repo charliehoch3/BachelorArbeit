@@ -1,0 +1,6 @@
+('Anmelde- und Kontaktdaten__Name', 'Data__Name')
+('Anmelde- und Kontaktdaten__Telefonnummer', 'Data__Name')
+('Anmelde- und Kontaktdaten__Beschäftigungsverhältnis', 'Data__Status')
+('Anmelde- und Kontaktdaten__Geschäft', 'Personal Data File__Nationality')
+('Gerätedaten__Name', 'Data__Name')
+('Transaktionsdaten__Währung', 'Data__Currency')

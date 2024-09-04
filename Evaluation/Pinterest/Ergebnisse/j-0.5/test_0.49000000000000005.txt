@@ -1,0 +1,4 @@
+('Kontodaten__Geschlecht', 'User profile information__Gender')
+('Kontodaten__Land', 'User profile information__Country')
+('Inhalte__Pins', 'Pins__Pins')
+('Inhalte__Kommentare', 'Comments__Comments')

@@ -1,0 +1,2 @@
+('Konto-Zugriffsinformationen__Pin', 'info__device')
+('Konto-Zugriffsinformationen__Pin', 'info__platform')

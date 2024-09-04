@@ -1,0 +1,3 @@
+('Anmelde- und Kontaktdaten__Name', 'Data__Name')
+('Gerätedaten__Name', 'Data__Name')
+('Transaktionsdaten__Währung', 'Data__Currency')

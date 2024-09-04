@@ -1,0 +1,552 @@
+{
+  "meta": {
+    "_id": "032c80b7-5eb0-439f-9b51-c4eddc49d956",
+    "name": "Rewe Lieferservice",
+    "created": "2024-06-24T00:00:00",
+    "modified": null,
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.rewe.de/service/datenschutz/lieferservice-abholservice",
+    "_hash": null
+  },
+  "controller": {
+    "name": "REWE Markt GmbH",
+    "country": "DE",
+    "address": "Domstraße 20, 50668 Köln, Telefon: 0221 17739777",
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": "kundenmanagement@rewe.de",
+      "phone": null
+    },
+    "sector": "G"
+  },
+  "dataProtectionOfficer": {
+    "email": "datenschutz@rewe.de",
+    "phone": null,
+    "country": null,
+    "name": null,
+    "address": "REWE Markt GmbH, Datenschutzbeauftragter, Domstraße 20, 50668 Köln"
+  },
+  "dataDisclosed": [
+    {
+      "_id": "38cba48b-213a-4221-9733-b0824a12785c",
+      "category": "Online-Einkäufe",
+      "purposes": [
+        {
+          "purpose": ["Wir verarbeiten deine Daten für die Abwicklung von Bestellungen in unserem Online-Shop. Dazu gehören die Abholung und Lieferung von Waren, Abwicklung von Zahlungen, Gewährung von Rabatten, Inanspruchnahme von Gutscheinen sowie Bearbeitung von Retouren und Mängelansprüchen."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Waren/Dienstleistungen", "Preis", "Rabattbetrag", "Ort des Vorgangs", "Zeitpunkt des Vorgangs"]
+    },
+    {
+      "_id": "9243fd4b-85ef-495b-b593-1c03487d6d2a",
+      "category": "Lieferung und Abholung",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Rechnungsadresse", "Lieferadresse", "Telefonnummer", "bevorzugte Abholzeiten oder Lieferzeiten", "Zustellungsnachweis"]
+    },
+    {
+      "_id": "f395def3-2c29-4ef5-9f91-aed921e2b3f7",
+      "category": "Zahlungsabwicklung",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Kreditkartendaten", "Kontodaten", "PayPal-Daten"]
+    },
+    {
+      "_id": "65a07b81-be98-4cbc-9e0b-87bcd55255e0",
+      "category": "Versandeinstellungen",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Lieferflat"]
+    },
+    {
+      "_id": "d7472bec-902a-4f42-a20e-3bf468d5195f",
+      "category": "Altersüberprüfung",
+      "purposes": [
+        {
+          "purpose": ["Nach §§ 9 und 10 des Jugendschutzgesetzes liefern wir alkoholische Getränke nur an Personen ab dem vollendeten 18. Lebensjahr. Wir behalten uns eine jeweilige Prüfung vor."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Geburtsdatum"]
+    },
+    {
+      "_id": "d2f5462f-dfcd-4ed8-9a93-977e895a05d5",
+      "category": "Bonität",
+      "purposes": [
+        {
+          "purpose": ["Bei Auswahl eeiner Zahlungsart, die mit einem finanziellen Ausfallrisiko verbunden ist (Rechnung, Lastschrift), holen wir zur Wahrung unserer berechtigten Interessen ggf. eine Bonitätsauskunft bei der SCHUFA Holding AG, Kormoranweg 5, 65201 Wiesbaden ein"],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "7985184e-d075-43a4-bb3b-a04ae647be50",
+      "category": "Auslieferung",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Parkplatzsituation"]
+    },
+    {
+      "_id": "e6781778-4fb7-45e1-b92a-3e0f1cef0e94",
+      "category": "Daten von Postdienstleistern",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Verifizierung der Lieferadresse"]
+    },
+    {
+      "_id": "2d8a35f7-a83a-4e94-942e-eafc2a567f31",
+      "category": "Abo von Push-Benachrichtigungen",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Installations-ID", "Advertisting-ID", "API Level des SDK (Android)", "IP-Adresse", "Bundel ID OS-Version", "App Version", "Batch SDK Version", "Push Token", "Push Notification Opt-In Status MLVL (Mobile Landing Version)", "Gerätemarke", "Gerätemodell", "Mobilfunkanbieter", "Sprache", "Land", "Region", "Zeitzone des Geräts"]
+    }
+
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": null,
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": true,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": 0,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": "Du kannst Auskunft über deine von uns verarbeiteten personenbezogenen Daten verlangen.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "Sollten deine Angaben nicht (mehr) zutreffend sein, kannst du die Berichtigung deiner Daten verlangen. Sollten deine Daten unvollständig sein, kannst du eine Vervollständigung verlangen. Du hast das Recht, die Löschung deiner Daten zu verlangen. Bitte beachte, dass ein Anspruch auf Löschung von dem Vorliegen eines legitimen Grundes abhängt. Zudem dürfen keine Vorschriften bestehen, die uns zur Aufbewahrung deiner Daten verpflichten.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": true,
+    "description": "Du hast das Recht, personenbezogene Daten, die du uns mitgeteilt hast, in einem elektronischen Format zu erhalten.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": "Du hast das Recht, aus Gründen, die sich aus deiner besonderen Situation ergeben, gegen die Verarbeitung deiner Daten Widerspruch einzulegen. Im Falle eines berechtigten Widerspruchs werden wir deine Daten nicht mehr verarbeiten.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": "Du bist berechtigt, bei einer Datenschutzaufsichtsbehörde Beschwerde einzureichen, wenn du mit der Verarbeitung deiner Daten nicht einverstanden bist.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": [],
+      "affectedDataCategories": [],
+      "plannedDateOfChange": [],
+      "urlOfNewVersion": []
+    }
+  ]
+}

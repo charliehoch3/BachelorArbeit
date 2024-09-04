@@ -1,0 +1,5 @@
+('Online-Einkäufe__Preis', 'minDelivery__price')
+('Online-Einkäufe__Preis', 'timeSlot__price')
+('Online-Einkäufe__Preis', 'lineItems__price')
+('Abo von Push-Benachrichtigungen__Land', 'invoiceAddress__country')
+('Abo von Push-Benachrichtigungen__Land', 'deliveryAddress__country')

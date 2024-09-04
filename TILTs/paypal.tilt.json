@@ -1,0 +1,875 @@
+{
+  "meta": {
+    "_id": "db464050-d379-47ea-9c4a-fa92ab8df273",
+    "name": "paypal",
+    "created": "2024-04-15T00:00:00",
+    "modified": null,
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://www.paypal.com/de/webapps/mpp/ua/privacy-full",
+    "_hash": null
+  },
+  "controller": {
+    "name": "PayPal (Europe) S.à r.l. et Cie, S.C.A.",
+    "country": "LX",
+    "address": "22-24 Boulevard Royal L-2449, Luxemburg",
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "sector": "G"
+  },
+  "dataProtectionOfficer": {
+    "email": null,
+    "phone": null,
+    "country": null,
+    "name": null,
+    "address": null
+  },
+  "dataDisclosed": [
+    {
+      "_id": "e6b2a23e-6dfa-4942-815d-b032a611cbb6",
+      "category": "Anmelde- und Kontaktdaten",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": ["die Bestätigung Ihrer Identität, auch durch Verwendung von elektronischen Signaturen, und die Verifizierung Ihrer persönlichen Angaben und Kontaktdaten"],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Name", "Postanschrift", "E-Mail-Adresse", "Einkommen", "Telefonnummer", "Steuernummer", "Zahlungsinformationen", "Informationen über Ihren Beruf", "Beschäftigungsverhältnis", "Geschäft"]
+    },
+    {
+      "_id": "7cff333c-7980-4638-9348-bb631dc815f8",
+      "category": "Identifizierungs- und Unterschriftsdaten",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": ["um unsere vorvertraglichen und vertraglichen Verpflichtungen Ihnen gegenüber zu erfüllen"],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "d0ba2892-b8e8-4928-89b7-a1aac8e26151",
+      "category": "Zahlungsinformationen",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": ["nachzuweisen, dass Transaktionen ausgeführt wurden."],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["gesendeter oder angeforderter Betrag", "Zahlungsinstrument", "verwendete Karte oder Zahlungsquelle", "Bezeichnung des Ausstellers", "Kartentyp", "Ländercode", "Kontonummer des Zahlungskontos", "CVV", "Benutzername", "IBAN-Informationen"]
+    },
+    {
+      "_id": "3d895fc2-7836-4aa3-9ed2-46788a75e675",
+      "category": "Informationen zu Ihren importierten Kontakten",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "cd1658c4-a01b-4813-ae8f-1e16d27cb7e8",
+      "category": "Kontoprofil",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Benutzername", "E-Mail-Adresse", "Mobiltelefonnummer", "Profilbild", "bevorzugte Sprache", "Beschreibung Ihrer Person"]
+    },
+    {
+      "_id": "1c90b919-756a-4295-ad36-14fc009d23cd",
+      "category": "Informationen, die Sie angeben, wenn Sie uns kontaktieren",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": ["mit Ihnen in Bezug auf unsere Dienste zu kommunizieren."],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "34408c41-da09-4d7f-ae43-2777414e9f73",
+      "category": "Gerätedaten",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Gerätetyp", "Netzwerkverbindungen", "Name", "IP-Adresse", "Informationen zum Webbrowser", "Informationen zur Internetverbindung", "Geolokalisierungsdaten", "Informationen zu Apps, die auf Ihr Gerät heruntergeladen wurden", "biometrische Daten"]
+    },
+    {
+      "_id": "62e38d90-7445-45bc-9838-ea3cc326ad48",
+      "category": "Abgeleitete Daten",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Verhaltensmuster", "persönliche Vorlieben", "Browsing- und Kaufgewohnheiten", "Kreditwürdigkeit"]
+    },
+    {
+      "_id": "71d0df2b-346d-43a1-9e27-2e8cd22954e6",
+      "category": "Daten aus den von Ihnen verknüpften Drittkonten",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "67ea4840-38c4-4248-97b2-80d5fa32148b",
+      "category": "Informationen von Auskunfteien",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": ["Risikoanalysen, Betrugsprävention und Risikomanagement durchzuführen."],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["ausstehende und historische Schulden", "Rückzahlungshistorie", "frühere Kreditgenehmigungen", "Arbeitsverhältnisse", "Beziehungen zu anderen Finanzinstituten"]
+    },
+    {
+      "_id": "49650ae1-f239-466d-ba15-aac689bea60b",
+      "category": "Transaktionsdaten",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Artikelbeschreibung", "Menge", "Preis", "Währung", "Lieferadresse", "Online-Warenkorbinformationen", "Verkäufer- und Käuferinformationen", "Zahlungsinformationen"]
+    },
+    {
+      "_id": "79f9c45e-17f3-4682-868f-c5c66e3c0a7d",
+      "category": "Informationen zu den gesetzlichen Vorschriften",
+      "purposes": [
+        {
+          "purpose": ["In Übereinstimmung mit geltendem Recht (u.a. Gesetz zur Geldwäscheprävention) können dies Informationen aus externen Sanktionslisten sein."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "513f85c1-3a11-416d-8411-a3588b986872",
+      "category": "Technische Nutzungsdaten von Cookies",
+      "purposes": [
+        {
+          "purpose": ["Ihre Daten zu speichern, damit Sie sie nicht erneut eingeben müssen. Zu verfolgen und verstehen, wie Sie unsere Online-Dienste und E-Mails nutzen und mit ihnen interagieren. Unsere Online-Dienste an Ihre Einstellungen anzupassen. Zu messen, wie nützlich und effektiv unsere Dienste und Kommunikation für Sie sind. Unsere Produkte und Dienste zu verwalten und zu verbessern."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Antwortzeit für Webseiten", "Download-Fehler", "Datum und Uhrzeit Ihrer Nutzung"]
+    },
+    {
+      "_id": "0bfed757-b5d6-46e7-92ed-521bc7676107",
+      "category": "Informationen von Ihrem Gerät",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Spracheinstellungen", "IP-Adresse", "Datum und Uhrzeit Ihrer Nutzung", "Browser-ID", "Geräte-ID", "Cookie-Einstellungen", "Zeitzone", "Betriebssystem", "Plattform", "Bildschirmauflösung", "Daten, die von Cookies oder anderen Tracking-Technologien erfasst werden"]
+    },
+    {
+      "_id": "566e23b5-3cb5-43ed-b9db-0a2c8c33c9f4",
+      "category": "Standortinformationen",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Breitengrad", "Längengrad", "GPS-Informationen"]
+    },
+    {
+      "_id": "84b2e337-d07c-4d29-8c1f-e38d8191debc",
+      "category": "Abgeleitete Daten",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": null,
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": true,
+    "description": "Kopie von Persönlichen und Finanzdaten",
+    "url": "https://www.paypal.com/myaccount/privacy/data/dar",
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": 0,
+      "currency": null
+    },
+    "dataFormats": ["PDF", "JSON"]
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": "Wir erkennen an, wie wichtig es ist, dass Sie die Kontrolle über die Verwendung Ihrer personenbezogenen Daten haben. Daher bieten wir Ihnen verschiedene Möglichkeiten, Ihre Rechte auf Zugriff, Auskunft, Berichtigung (durch Korrektur oder Aktualisierung), Löschung, Widerspruch, Übertragbarkeit und Einschränkung der Verarbeitung ganz oder teilweise auszuüben.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "Wir erkennen an, wie wichtig es ist, dass Sie die Kontrolle über die Verwendung Ihrer personenbezogenen Daten haben. Daher bieten wir Ihnen verschiedene Möglichkeiten, Ihre Rechte auf Zugriff, Auskunft, Berichtigung (durch Korrektur oder Aktualisierung), Löschung, Widerspruch, Übertragbarkeit und Einschränkung der Verarbeitung ganz oder teilweise auszuüben.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": true,
+    "description": "Wir erkennen an, wie wichtig es ist, dass Sie die Kontrolle über die Verwendung Ihrer personenbezogenen Daten haben. Daher bieten wir Ihnen verschiedene Möglichkeiten, Ihre Rechte auf Zugriff, Auskunft, Berichtigung (durch Korrektur oder Aktualisierung), Löschung, Widerspruch, Übertragbarkeit und Einschränkung der Verarbeitung ganz oder teilweise auszuüben.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": "Wir erkennen an, wie wichtig es ist, dass Sie die Kontrolle über die Verwendung Ihrer personenbezogenen Daten haben. Daher bieten wir Ihnen verschiedene Möglichkeiten, Ihre Rechte auf Zugriff, Auskunft, Berichtigung (durch Korrektur oder Aktualisierung), Löschung, Widerspruch, Übertragbarkeit und Einschränkung der Verarbeitung ganz oder teilweise auszuüben.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": true,
+    "description": "Sie haben das Recht, einer automatisierten Entscheidung zu widersprechen, wenn deren Rechtsfolgen oder Ergebnisse geeignet sind, (zusammen mit dem entsprechenden Profiling) in sonstiger Weise erhebliche Auswirkungen auf Sie zu haben, indem Sie uns kontaktieren. Wir prüfen die Entscheidung sodann unter Berücksichtigung der zusätzlichen Umstände.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": [],
+      "affectedDataCategories": [],
+      "plannedDateOfChange": [],
+      "urlOfNewVersion": []
+    }
+  ]
+}

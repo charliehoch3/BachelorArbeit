@@ -1,0 +1,8 @@
+('Buyer Details__name', 'purchases__Title')
+('Regional Information__country', 'shipping_addresses__city')
+('Regional Information__country', 'shipping_addresses__state')
+('Buyer Public Profile Information__name', 'purchases__Title')
+('Buyer Public Profile Information__Birthday', 'convos__Date')
+('Buyer Public Profile Information__Location', 'signin_history__location')
+('Transaction Information__date', 'convos__Date')
+('Information from our Payment Processors and Other Entities__name', 'purchases__Title')

@@ -1,0 +1,735 @@
+{
+  "meta": {
+    "_id": "6de2d11a-5f55-4582-a154-5ec39a3d77ba",
+    "name": "pinterest",
+    "created": "2024-04-30T00:00:00",
+    "modified": null,
+    "version": 1,
+    "language": "de",
+    "status": "active",
+    "url": "https://policy.pinterest.com/de/privacy-policy",
+    "_hash": null
+  },
+  "controller": {
+    "name": "Pinterest Europe Ltd.",
+    "country": "IR",
+    "address": "Palmerston House, 2nd Floor, Fenian Street, Dublin 2, Irland",
+    "division": null,
+    "representative": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "sector": "G"
+  },
+  "dataProtectionOfficer": {
+    "email": null,
+    "phone": null,
+    "country": null,
+    "name": null,
+    "address": "https://help.pinterest.com/de/data-protection-officer-contact-form"
+  },
+  "dataDisclosed": [
+    {
+      "_id": "2618d0d6-5efa-4c22-8975-1be1010ff079",
+      "category": "Kontodaten",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Name", "E-Mail-Adresse", "Geburtsdatum", "Geschlecht", "Land", "Interessen", "Sprache"]
+    },
+    {
+      "_id": "26d2263c-c3bc-4349-9502-6381273524d7",
+      "category": "Inhalte",
+      "purposes": [
+        {
+          "purpose": ["Wir erheben Daten, wenn du Pins, Fotos oder andere Inhalte speicherst oder hochlädst, mit Pins oder anderen Inhalten interagierst (z. B. Kommentare hinterlässt oder Pins hinzufügst) oder wenn du Nachrichten sendest und mit anderen Nutzenden interagierst."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Pins", "Fotos", "Inhalte", "Kommentare", "Nachrichten", "Interaktionen"]
+    },
+    {
+      "_id": "ad88ed27-114a-4d18-91b8-1d075398d626",
+      "category": "Genaue Standortdaten",
+      "purposes": [
+        {
+          "purpose": ["Abhängig von deinem Wohnort kannst du in den Einstellungen deines Geräts festlegen, ob du deinen genauen Standort freigeben möchtest."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "e022204c-7388-4702-a8d2-ff95d943e177",
+      "category": "Kommunikation mit uns",
+      "purposes": [
+        {
+          "purpose": ["Wenn du unseren Kundenservice kontaktierst oder anderweitig mit uns kommunizierst, erfassen wir den Inhalt dieser Kommunikation."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "29724edd-2c87-4706-8717-75222c0c9e57",
+      "category": "Kontakte",
+      "purposes": [
+        {
+          "purpose": ["Falls du dich in der Vergangenheit dafür entschieden hast, deine Kontakte mit deinem Konto zu synchronisieren, verarbeiten wir weiterhin bestimmte Daten bezüglich deiner Kontakte, die Pinterest nutzen, um euch dabei zu helfen, euch gegenseitig auf unseren Diensten zu finden."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "939c89e8-74d6-4c8b-98e4-1b58ee5279a2",
+      "category": "Gerätedaten",
+      "purposes": [
+        {
+          "purpose": [],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Art des Geräts", "Betriebssystem", "Netzwerkdienstanbieter", "Einstellungen", "eindeutige Gerätekennung"]
+    },
+    {
+      "_id": "a2889637-17f2-405a-8ce4-3047fd12793f",
+      "category": "Protokolldaten",
+      "purposes": [
+        {
+          "purpose": ["Wenn du unsere Dienste nutzt, erfassen unsere Server Daten („Protokolldaten“)"],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": ["Um unsere Dienste zu verbessern und weiterzuentwickeln"],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": ["Es liegt in unserem Interesse und im Interesse der Nutzenden von Pinterest, dass wir den Dienst in auf fundierte Art und Weise verbessern, bewerben und weiterentwickeln."],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["IP-Adresse", "Aktivitäten auf Webseiten, die du besuchst", "Browsertyp", "Browsereinstellungen", "Datum und Uhrzeit deines Zugriffs"]
+    },
+    {
+      "_id": "0f9e2692-11e8-42c8-b7ea-0e834d21b305",
+      "category": "Daten von Cookies und ähnlichen Technologien",
+      "purposes": [
+        {
+          "purpose": ["Wir verwenden auch sogenannte Cookies oder ähnliche Technologien, um Protokolldaten zu erhalten. Beispielsweise verwenden wir Cookies, um deine Spracheinstellungen oder andere Einstellungen zu speichern, damit du sie nicht jedes Mal einrichten musst, wenn du Pinterest aufrufst."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Spracheinstellungen", "andere Einstellungen"]
+    },
+    {
+      "_id": "f5c3c9d7-122f-4f3d-809f-661b1336e640",
+      "category": "Nutzungsdaten und Rückschlüsse",
+      "purposes": [
+        {
+          "purpose": ["Wenn du unsere Dienste nutzt, nutzen wir deine Aktivitäten (z. B. auf welche Pins du klickst, nach welchen Begriffen du suchst, Pinnwände, die du erstellst, und Text, den du in einem Kommentar oder einer Beschreibung verfasst) und andere Daten, die du bei deiner Registrierung angegeben hast, sowie Daten von unseren Partnern und Werbetreibenden, um Rückschlüsse auf dich und deine Vorlieben zu ziehen."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": ["Um dir Inhalte anzuzeigen, die für dich relevant und interessant sind"],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": ["Es liegt in unserem Interesse und im Interesse der Nutzenden von Pinterest, ein personalisiertes, einzigartiges und relevantes Angebot zu erhalten, denn aus diesem Grund nutzen die Nutzenden den Dienst."],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Ausbildung", "Berufserfahrung", "Vorlieben"]
+    },
+    {
+      "_id": "3472deca-1e4b-45c2-819f-ad9e829b75bc",
+      "category": "Standortdaten",
+      "purposes": [
+        {
+          "purpose": ["Wir verwenden deine IP-Adresse, um deinen ungefähren Standort zu ermitteln, auch wenn du deinen genauen Standort nicht freigegeben hast. Außerdem enthalten Fotos, die du teilst, unter Umständen Daten dazu, wo sie aufgenommen wurden."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "7c80c71b-bba0-4bbf-ac89-1ee029ce890f",
+      "category": "Drittanbieterplattformen",
+      "purposes": [
+        {
+          "purpose": ["Wenn du dich über eine Drittanbieterplattform (wie Facebook oder Google) für unsere Dienste registrierst bzw. bei ihnen anmeldest, erhalten wir von der jeweiligen Plattform bestimmte Daten zu dir, damit wir dein Konto für dich erstellen bzw. dir die Anmeldung bei uns ermöglichen können."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Protokolldaten", "Nutzungsdaten"]
+    },
+    {
+      "_id": "852ef746-6cbe-4ec8-b4ae-7167b4cfb602",
+      "category": "Technische Servicepartner",
+      "purposes": [
+        {
+          "purpose": ["Manchmal erhalten wir von technischen Servicepartnern Daten zu deiner Person. Dazu zählen unter anderem Marketingunternehmen."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      }
+    },
+    {
+      "_id": "460c76b1-c0f0-4f1f-9610-0e6e46f0d332",
+      "category": "Werbetreibende oder andere Partner",
+      "purposes": [
+        {
+          "purpose": ["Onlinewerbetreibende oder Dritte geben Daten zu deiner Person an uns weiter, um die Performance von Anzeigen auf Pinterest zu messen, zu melden oder zu verbessern bzw. zu entscheiden, welche Arten von Anzeigen wir dir auf Pinterest anzeigen wollen."],
+          "description": []
+        }
+      ],
+      "legalBases": [
+        {
+          "reference": [],
+          "description": []
+        }
+      ],
+      "legitimateInterests": [
+        {
+          "reasoning": [],
+          "exists": []
+        }
+      ],
+      "recipients": [
+        {
+          "name": [],
+          "country": [],
+          "division": [],
+          "address": [],
+          "representative": [],
+          "category": []
+        }
+      ],
+      "storage": [
+        {
+          "purposeConditional": [],
+          "legalBasisConditional": [],
+          "temporal": [],
+          "aggregationFunction": []
+        }
+      ],
+      "nonDisclosure": {
+        "consequences": null,
+        "legalRequirement": null,
+        "contractualRegulation": null,
+        "obligationToProvide": null
+      },
+      "subcategories": ["Besuchen auf der Webseite eines Werbetreibenden", "Käufe", "Daten zu deinen Interessen", "Pinterest-Tag Daten"]
+    }
+  ],
+  "thirdCountryTransfers": [
+    {
+      "country": null,
+      "adequacyDecision": {
+        "available": null,
+        "description": null
+      },
+      "appropriateGuarantees": {
+        "available": null,
+        "description": null
+      },
+      "presenceOfEnforceableRightsAndEffectiveRemedies": {
+        "available": null,
+        "description": null
+      },
+      "standardDataProtectionClause": {
+        "available": null,
+        "description": null
+      }
+    }
+  ],
+  "accessAndDataPortability": {
+    "available": true,
+    "description": null,
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "administrativeFee": {
+      "amount": null,
+      "currency": null
+    },
+    "dataFormats": []
+  },
+  "sources": [
+    {
+      "_id": [],
+      "dataCategory": [],
+      "sources": []
+    }
+  ],
+  "rightToInformation": {
+    "available": true,
+    "description": " Du hast ein Recht auf Auskunft in übertragbarem Format darüber, welche Daten wir zu deiner Person erfassen und speichern",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToRectificationOrDeletion": {
+    "available": true,
+    "description": "Du kannst deine Daten berichtigen, indem du die Daten in deinem Profil änderst. Du kannst deine Daten löschen lassen. Wähle dazu in den Einstellungen die Option „Daten und Konto löschen“ aus und halte dich an die Anweisungen.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToDataPortability": {
+    "available": true,
+    "description": "10.8 Daten\u00fcbertragbarkeit\nDu hast das Recht, personenbezogene Daten, die du uns mitgeteilt hast, in einem elektronischen Format zu erhalten.",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToWithdrawConsent": {
+    "available": true,
+    "description": "Wie bereits oben erläutert, könnten einige unsere Aktivitäten „gezielte Werbung“, „Weitergabe“ oder „Verkauf“ im Sinne bestimmter Datenschutzgesetze einzelner US-Bundesstaaten darstellen. Du bist jederzeit berechtigt, dem zu widersprechen",
+    "url": null,
+    "email": null,
+    "identificationEvidences": []
+  },
+  "rightToComplain": {
+    "available": false,
+    "description": "",
+    "url": null,
+    "email": null,
+    "identificationEvidences": [],
+    "supervisoryAuthority": {
+      "name": null,
+      "address": null,
+      "country": null,
+      "email": null,
+      "phone": null
+    }
+  },
+  "automatedDecisionMaking": {
+    "logicInvolved": null,
+    "inUse": null,
+    "scopeAndIntendedEffects": null
+  },
+  "changesOfPurpose": [
+    {
+      "description": [],
+      "affectedDataCategories": [],
+      "plannedDateOfChange": [],
+      "urlOfNewVersion": []
+    }
+  ]
+}
