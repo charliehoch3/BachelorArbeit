@@ -1,0 +1,114 @@
+Python 3.12.5
+https://www.python.org/downloads/release/python-3125/
+
+Visual Studio Code (Optional)
+Python extension für Visual Studio Code (Optional)
+
+In visual Studio Code:
+Eine Python Datei öffnen
+unten rechts Python Version anklicken
+Create Virtual Env
+Venv
+Delete and Recreate
+Requirements auswählen, damit diese gleich mit installiert werden
+(Abwarten)
+
+Alternativ diese Befehle um das Venv von Hand einzurichten: (Anpassen auf eigene Pfade)
+Deleted ".venv" dir: e:\Bachelor\AbgabeGit\Cupid Code\.venv
+2024-08-26 08:34:33.606 [info] > ~\AppData\Local\Programs\Python\Python312\python.exe ~\.vscode\extensions\ms-python.python-2024.12.3-win32-x64\python_files\create_venv.py --git-ignore --requirements "e:\Bachelor\AbgabeGit\Cupid Code\requirements.txt"
+2024-08-26 08:34:33.606 [info] cwd: e:\Bachelor\AbgabeGit\Cupid Code
+2024-08-26 08:34:33.811 [info] Running: C:\Users\…\AppData\Local\Programs\Python\Python312\python.exe -m venv .venv
+2024-08-26 08:34:36.487 [info] > "e:\LotteStuff\Cupid Code\.venv\Scripts\python.exe" -I ~\.vscode\extensions\ms-python.python-2024.12.3-win32-x64\python_files\get_output_via_markers.py ~\.vscode\extensions\ms-python.python-2024.12.3-win32-x64\python_files\interpreterInfo.py
+
+Im Python terminal:
+$ENV:PYTHONPATH="."
+
+Die Jellyfish Bibliothek hat eine Funktion verschoben, das similarity Paket ist aber nicht aktuell:
+In diesen beiden Dateien das Import statement aktualsieren
+jaro_winkler -> jaro_winkler_similarity
+
+E:\LotteStuff\Cupid Code\.venv\Lib\site-packages\similarity\convert_score_and_distance_functions.py
+from jellyfish import jaro_winkler_similarity as get_similarity
+E:\LotteStuff\Cupid Code\.venv\Lib\site-packages\similarity\jaro_winkler.py
+from jellyfish import jaro_winkler_similarity as _get_jaro_winkler_similarity
+
+Im Python Terminal:
+nltk downloads ausführen:
+& "e:/Bachelor/AbgabeGit/Cupid Code/.venv/Scripts/python.exe" -m nltk.downloader punkt stopwords wordnet
+
+Programm starten
+& "e:/Bachelor/AbgabeGit/Cupid Code/.venv/Scripts/python.exe" "e:/Bachelor/AbgabeGit/Cupid Code/experiments/cupid_cupid_data.py"
+
+Die Eingaben müssen im Ordner Cupid Code/data/cupid/paper liegen und wiefolgt benannt werden:
+cupid-paper-gold.txt -> Goldstandard File
+datenauskunft.csv -> Vom Java Programm vorverarbeitete Datenauskunft.
+datenschutzerkaerung.csv -> Vom Tilt Preprocessor vorverarbeite Datenschutzterklärung.
+
+Die Matching Ausgaben werden in Cupid Code/experiments/cupid-output geschrieben.
+Die Pdf mit den Graphen werden in Cupid Code geschrieben.
+
+
+Es kann sein, dass ein Buildschritt rc.exe oder rcdll.dll benötigt und nicht findet. Dann folgendes machen:
+
+- rc.exe
+- rcdll.dll
+von 
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x64
+nach
+Visual Studio 2019:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx86\
+Visual Studio 2027:  C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\bin\Hostx64\x64
+kopiert.
+
+
+### Libre Translate
+https://github.com/LibreTranslate/LibreTranslate
+
+Istallieren über pip oder docker, wie im Readme angegeben.
+pip install libretranslate
+libretranslate [args]
+
+oder für docker
+./run.sh bzw. ./run.bat
+
+Der Serverprozess wird beim ersten Start verschiedene Übersetzungsbücher herunterladen und ist danach einsatzbereit.
+
+
+### Tilt Pre-Processing Implementierung
+Python 3.12.5
+https://www.python.org/downloads/release/python-3125/
+
+Visual Studio Code (Optional)
+Python extension für Visual Studio Code (Optional)
+
+In visual Studio Code:
+Eine Python Datei öffnen
+unten rechts Python Version anklicken
+Create Virtual Env
+Venv
+Delete and Recreate
+Requirements auswählen, damit diese gleich mit installiert werden
+(Abwarten)
+
+Language Server starten
+
+In .vscode/launch.json zeille 20 den Pfad zur gewünschten Tilt Datei anpassen. Vollständigen Pfad verwenden.
+Datei TILTPreprocessing.py öffnen und auf den Selektor des Run buttons klicken. „Python Debugger: Debug using launch.json“ auswählen. Konfiguration „Python: run current file with my args“
+
+Alternativ Terminal öffen, in den Ordner gehen und das Programm aufrufen: (Anpassen auf eigene Pfade)
+& "e:/Bachelor/AbgabeGit/TILT Pre-Processing Implementierung/.venv/Scripts/python.exe" "e:/Bachelor/AbgabeGit/TILT Pre-Processing Implementierung/TILTpreprocessing.py" ..\TILTs\etsy.tilt.json
+
+Die Eingabe Tilt Datei wird als Aufrufparameter übergeben.
+Die Ausgabe datenschutzerkaerung.csv wird in den Ausführungsordner geschrieben.
+Die Ausgabe translation.csv wird ebenfalls in den Ausführungsordner geschrieben.
+
+
+### Sar-Graph Datenauskunft Preprocessor
+Öffnen mit Intellij.
+Datenauskunftsquelle in Main eintragen.
+
+Language Server starten.
+
+Main mit Play Button ausführen
+
+Die Eingabe Datenauskunft wird im demo Ordner erwartet.
+Die Ausgabe filename +"_datenauskunft.csv wird im sar-graph Ordner erstellt. "filename" wird aus den Eingaben bestimmt.
