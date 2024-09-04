@@ -5,3 +5,4 @@
 .venv/Scripts
 build
 dist
+demo/*

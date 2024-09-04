@@ -1,0 +1,11 @@
+# ignore Editor config
+.idea
+sar-graph.code-workspace
+.DS_Store
+target
+demo/html
+demo/json
+demo/csv
+demo/*
+demo/*.dot
+*.bin
