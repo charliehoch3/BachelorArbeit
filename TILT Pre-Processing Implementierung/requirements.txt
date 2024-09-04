@@ -1,0 +1,2 @@
+jsonpath_ng==1.6.1
+libretranslatepy==2.1.4

@@ -1,5 +1,3 @@
-.ods#
-.~lock.*
 .venv/Lib
 .venv/Include
 .venv/Scripts
