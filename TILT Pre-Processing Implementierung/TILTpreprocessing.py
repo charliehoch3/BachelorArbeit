@@ -1,7 +1,7 @@
 import json, jsonpath_ng
 import csv
 import sys #für Aurufargumente
-from libretranslatepy import LibreTranslateAPI #Translater
+from libretranslatepy import LibreTranslateAPI #Translator
 
 tiltDatei = sys.argv[1] #Sei die erste Variable nach Aufruf der Pfad zur gewünschten TILT Datei
 
@@ -38,7 +38,7 @@ while i < (len(extracted_data)):
     i+=1
     
     
-#if(libretranslate.detect(data_array[0][0])[0].get("language") != "en"):
+if(libretranslate.detect(data_array[0][0])[0].get("language") != "en"):
     index = 0
     for x in data_array:
         category_translated = libretranslate.translate(x[0], "de", "en")
